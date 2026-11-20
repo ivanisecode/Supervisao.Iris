@@ -17,7 +17,7 @@ Revisado todo mês com o faturamento do mês fechado. No meio do mês, usar a pr
 | Status | Faturamento do mês | Contato | Ação |
 |---|---|---|---|
 | 🔵 Berçário | até 120 dias de operação | diário ou dias alternados | meta R$ 3.000/mês (item 2) |
-| 🟢 Saudável | acima de R$ 8.000 | mensal | reunião estratégica de crescimento |
+| 🟢 Saudável | a partir de R$ 8.000 | mensal | reunião estratégica de crescimento |
 | 🟡 Atenção | R$ 4.700 a R$ 8.000 | quinzenal | WhatsApp + reunião quinzenal |
 | 🟠 Recuperação | R$ 1.000 a R$ 4.700 | semanal | reunião semanal + plano de 7 dias |
 | 🔴 Crítico | abaixo de R$ 1.000 ou zero | imediato | diagnóstico + plano de resgate |
@@ -60,18 +60,22 @@ Substitui a fórmula antiga "7 dias × 4,3", que erra em meses de 31 dias e quan
 
 ## 5. Comissão da supervisora
 
-A comissão é calculada sobre os **royalties** pagos pela unidade, não sobre o faturamento.
+A comissão é calculada sobre os **royalties** da unidade:
 
-| Royalties da unidade no mês | Comissão |
+**Royalties = 15% do faturamento bruto + taxa de sistema** (sem descontos, mesmo que a unidade tenha recebido algum).
+
+Faturamento bruto necessário para uma faixa: **(faixa − taxa de sistema) ÷ 0,15**. Sem a taxa, R$ 1.000 de royalties pedem R$ 6.667 de faturamento.
+
+| Royalties da unidade no mês (igual ou acima) | Comissão |
 |---|---|
-| acima de R$ 1.000 | R$ 50 |
-| acima de R$ 1.500 | R$ 75 |
-| acima de R$ 2.000 | R$ 100 |
-| acima de R$ 2.500 | R$ 125 |
-| acima de R$ 3.000 | R$ 150 |
-| acima de R$ 3.500 | R$ 175 |
-| acima de R$ 4.000 | R$ 200 |
-| **João Pessoa (CKA):** faturamento acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 |
+| a partir de R$ 1.000 | R$ 50 |
+| a partir de R$ 1.500 | R$ 75 |
+| a partir de R$ 2.000 | R$ 100 |
+| a partir de R$ 2.500 | R$ 125 |
+| a partir de R$ 3.000 | R$ 150 |
+| a partir de R$ 3.500 | R$ 175 |
+| a partir de R$ 4.000 | R$ 200 |
+| **João Pessoa (CKA):** faturamento acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 acima de R$ 35.000. Ex.: R$ 40.000 = R$ 300 |
 
 Mais o prêmio do berçário (item 2). Claude mostra a faixa e a distância até a próxima, mas não lança pagamento.
 
@@ -132,6 +136,4 @@ Status de tarefa: A fazer, Aguardando franqueado, Em andamento, Feito, Atrasado.
 
 ## Pendências do método
 
-1. **Royalties x faturamento:** como o royalty é calculado a partir do faturamento (percentual, valor mínimo)? Sem isso não dá para dizer quanto falta de faturamento para a próxima faixa.
-2. **"Acima de":** royalties de exatamente R$ 1.000 entram na faixa de R$ 50 ou não?
-3. **João Pessoa:** a conta é sobre o que passar de R$ 35.000? Exemplo: R$ 40.000 = 5 × R$ 60 = R$ 300?
+1. **Valor da taxa de sistema** por unidade (fixo? igual para todas?). Necessário para calcular a borda de faixa.
