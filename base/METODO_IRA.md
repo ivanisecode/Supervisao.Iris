@@ -1,6 +1,6 @@
 # Método IRA: versão prática
 
-Criado por Ivanise Leite (jun/2026). Versão enxuta de 20/11/2026. Original: [MetodoIRA_Supervisao_Franchising.docx](https://docs.google.com/document/d/1V2UAOOW_NvXrqDztRYxwO6qYOjaECuFD/edit).
+Criado por Ivanise Leite (jun/2026). Versão enxuta de 20/11/2026. [Google Doc com SWOT](https://docs.google.com/document/d/1jGjO4gbvzhJjWhJD5Oxe8-f5422O7RpP60VipJ7GMZw/edit). Original: [MetodoIRA_Supervisao_Franchising.docx](https://docs.google.com/document/d/1V2UAOOW_NvXrqDztRYxwO6qYOjaECuFD/edit).
 
 **Premissa:** franqueado é empresário, não funcionário. Supervisão é parceria, não controle.
 
@@ -46,7 +46,7 @@ Antes de marcar Crítico: confirmar que não há pedido sem lançamento ou erro 
 ## 3. Onde focar primeiro
 
 1. **Crítico e berçário com bloqueio:** contato no dia.
-2. **Borda de faixa:** royalties a até R$ 500 da próxima faixa (item 5). Empurrão pequeno, retorno imediato.
+2. **Borda de faixa:** a até R$ 500 de faturamento da próxima faixa de royalties (item 5), o que equivale a R$ 75 de royalties. Empurrão pequeno, retorno imediato.
 3. **Zeradas com potencial:** até 12 meses de operação. Quase sempre é comportamento: crença baixa, sem prospecção, Instagram parado.
 4. **Saudáveis sem reunião estratégica:** 30 minutos podem render R$ 2 a 3 mil a mais.
 

@@ -30,5 +30,6 @@ Aplicar a Supervisão pelo Método IRA e ser vista pelas franqueadas como gestor
 - `base/METODO_IRA.md`: o método. Status das unidades, berçário, prioridades, rotina, regras de ouro, mensagens, cartão. **Ler primeiro.**
 - `base/MANUAL_SUPERVISAO_IRIS.md`: reuniões, fórmulas de faturamento, regras operacionais vigentes.
 - `base/MAPA_DE_FONTES.md`: links de planilhas, Trello, Gestão.
+- `analises/`: análises datadas (ex.: SWOT do método).
 - `rotinas/ROTINAS.md`: resumo 9h, fechamento 18h, decisões sexta 15h.
 - Dados brutos (CSVs de vendas, diário, atas com clientes) NÃO entram no repositório. Ficam no Drive restrito.
