@@ -24,9 +24,9 @@ Fases do berçário:
 - Dias 31 a 60: evolução, follow-up e previsibilidade.
 - Dias 61 a 90: processo comercial e crescimento.
 - Dias 91 a 120: consolidação e saída do berçário.
-- Dias 121 a 150: fomento. Acompanhamento de reforço antes de virar unidade regular.
+- Dias 121 a 150: fomento. Mesma meta e mesmo prêmio do berçário, para validar a evolução antes de virar unidade regular.
 
-A contagem começa na data real de inauguração. O que muda no fomento (frequência de contato, prêmio, metas) ainda não está definido.
+A contagem começa na data real de inauguração. No fomento valem as mesmas regras de meta e prêmio do berçário (Ivanise, 20/11/2026). Continua em aberto se o marco de R$ 3.000 é mensal ou acumulado.
 
 ## 2. Antes de concluir que a unidade zerou
 
