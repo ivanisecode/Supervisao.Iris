@@ -27,3 +27,6 @@ Aplicar a Supervisão pelo Método IRA e ser vista pelas franqueadas como gestor
 - `reunioes/AAAA-MM-DD-unidade.md`: anotações brutas de reunião.
 - `tarefas/tarefas.md`: tarefas abertas por unidade (o quê, quem, prazo, status).
 - `recorrentes.md`: problemas que se repetem na rede, unidades afetadas, proposta.
+- `base/`: manual da supervisão, mapa de fontes com links, continuidade de 19/11/2026 e instruções do projeto (migração Íris). Ler antes de cobrar ou calcular faturamento.
+- `rotinas/`: estado dos agendamentos e prompts de Cowork (fechamento 18h, decisões sexta 15h, resumo 9h).
+- Dados brutos (CSVs de vendas, diário, atas com clientes) NÃO entram no repositório. Ficam no Drive restrito.

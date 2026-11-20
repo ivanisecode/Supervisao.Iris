@@ -1,0 +1,5 @@
+# Dados brutos (clientes, crianças, vendas) ficam fora do repositório
+03_ARQUIVO_INTERNO/
+*.csv
+*.xlsx
+*.xlsm
