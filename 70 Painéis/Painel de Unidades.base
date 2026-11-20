@@ -1,0 +1,36 @@
+filters:
+  and:
+    - type == "unidade"
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - fase
+      - dias_operacao
+      - status
+      - faturamento_mes
+      - ultimo_contato
+      - proximo_contato
+  - type: table
+    name: Berçário e fomento
+    filters:
+      or:
+        - fase == "bercario"
+        - fase == "fomento"
+    order:
+      - file.name
+      - fase
+      - dias_operacao
+      - inauguracao
+      - faturamento_mes
+      - proximo_contato
+  - type: table
+    name: Próximos contatos
+    filters:
+      and:
+        - proximo_contato != null
+    order:
+      - file.name
+      - proximo_contato
+      - status

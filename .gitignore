@@ -1,5 +1,10 @@
-# Dados brutos (clientes, crianças, vendas) ficam fora do repositório
+# Dados brutos (clientes, crianças, vendas) ficam fora do cofre
 03_ARQUIVO_INTERNO/
 *.csv
 *.xlsx
 *.xlsm
+
+# Obsidian: estado de tela de cada computador
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/

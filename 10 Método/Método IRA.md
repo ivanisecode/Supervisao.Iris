@@ -1,0 +1,145 @@
+---
+type: metodo
+tags: [metodo]
+updated: 2026-11-20
+---
+# Método IRA: versão prática
+
+Volta para: [[Início]] · [[Decisões]] · [[Glossário]]
+
+Criado por Ivanise Leite (jun/2026). Versão enxuta de 20/11/2026. [Google Doc com SWOT](https://docs.google.com/document/d/19o7BFq6ncEyBVoOJ-jnFiPSXrreKq6pkw6ls5zLuM5U/edit). Original: [MetodoIRA_Supervisao_Franchising.docx](https://docs.google.com/document/d/1V2UAOOW_NvXrqDztRYxwO6qYOjaECuFD/edit).
+
+**Objetivo:** todas as unidades faturando bem. Se a unidade fatura bem, todos ganham: franqueada, rede e supervisora.
+
+**Premissa:** franqueado é empresário, não funcionário. Supervisão é parceria, não controle.
+
+| Pilar | Na prática |
+|---|---|
+| **I**nteligência | Decidir por dados: quem está em qual status, quanto fatura, onde o tempo rende mais |
+| **R**elacionamento | Confiança antes de cobrança. Escuta antes de pauta |
+| **A**celeração | Foco nas unidades que mais podem crescer agora, não no que parece urgente |
+
+## 1. Status da unidade
+
+Revisado todo mês com o faturamento do mês fechado. No meio do mês, usar a projeção (item 4).
+
+| Status | Faturamento do mês | Contato | Ação |
+|---|---|---|---|
+| 🔵 Berçário | até 120 dias de operação | diário ou dias alternados | meta R$ 3.000/mês (item 2) |
+| 🟢 Saudável | a partir de R$ 8.000 | mensal | reunião estratégica de crescimento |
+| 🟡 Atenção | R$ 4.700 a R$ 8.000 | quinzenal | WhatsApp + reunião quinzenal |
+| 🟠 Recuperação | R$ 1.000 a R$ 4.700 | semanal | reunião semanal + plano de 7 dias |
+| 🔴 Crítico | abaixo de R$ 1.000 ou zero | imediato | diagnóstico + plano de resgate |
+
+Mudança de status: Saudável só cai para Atenção depois de 2 meses abaixo de R$ 8.000. Os outros mudam no mês.
+
+Antes de marcar Crítico: confirmar que não há pedido sem lançamento ou erro no relatório.
+
+## 2. Berçário e fomento
+
+- **Berçário:** dias 1 a 120, contados da inauguração real.
+- **Fomento:** dias 121 a 150. Mesma meta e mesmo prêmio, para validar.
+- **Marco:** R$ 3.000 **por mês**, mantendo ou crescendo em relação ao mês anterior. Bater uma vez e cair não vale.
+- **Prêmio:** R$ 100 **a cada mês** que cumprir o marco.
+- **Mês da inauguração:** conta, mesmo parcial, se bater R$ 3.000.
+- Ao completar 150 dias: entra no status pelo faturamento.
+- Lista atual: [[Unidades#Berçário (até 120 dias)]] e [[Unidades#Fomento (121 a 150 dias)]].
+
+| Fase | Foco |
+|---|---|
+| Dias 1 a 30 | implantação, rotina, primeiros clientes, parcerias |
+| Dias 31 a 60 | evolução, follow-up, previsibilidade |
+| Dias 61 a 90 | processo comercial e crescimento |
+| Dias 91 a 120 | consolidação |
+| Dias 121 a 150 | fomento |
+
+## 3. Onde focar primeiro
+
+1. **Crítico e berçário com bloqueio:** contato no dia.
+2. **Borda de faixa:** a até R$ 500 de faturamento da próxima faixa de royalties (item 5), o que equivale a R$ 75 de royalties. Empurrão pequeno, retorno imediato.
+3. **Zeradas com potencial:** até 12 meses de operação. Quase sempre é comportamento: crença baixa, sem prospecção, Instagram parado.
+4. **Saudáveis sem reunião estratégica:** 30 minutos podem render R$ 2 a 3 mil a mais.
+
+Checklist antes de sugerir Instagram: WhatsApp conectado, pedidos no sistema, estoque disponível e em manutenção, preços, Giro Inteligente, orçamentos pendentes, devoluções próximas, clientes antigos, parcerias. Um bloqueio por vez, com evidência de conclusão.
+
+## 4. Projeção do mês
+
+**Faturado até ontem ÷ dias corridos fechados × dias do mês.**
+
+Substitui a fórmula antiga "7 dias × 4,3", que erra em meses de 31 dias e quando a primeira semana tem feriado ou mais fins de semana. É estimativa: sempre dizer o corte.
+
+## 5. Comissão da supervisora
+
+A comissão é calculada sobre os **royalties** da unidade:
+
+**Royalties = 15% do faturamento bruto + R$ 300 de taxa de sistema** (taxa igual para todas, sem descontos).
+
+Faturamento bruto necessário para uma faixa: **(faixa − 300) ÷ 0,15**.
+
+| Royalties no mês (igual ou acima) | Faturamento bruto necessário | Comissão |
+|---|---|---|
+| R$ 1.000 | R$ 4.667 | R$ 50 |
+| R$ 1.500 | R$ 8.000 | R$ 75 |
+| R$ 2.000 | R$ 11.334 | R$ 100 |
+| R$ 2.500 | R$ 14.667 | R$ 125 |
+| R$ 3.000 | R$ 18.000 | R$ 150 |
+| R$ 3.500 | R$ 21.334 | R$ 175 |
+| R$ 4.000 | R$ 24.667 | R$ 200 |
+| **João Pessoa (CKA)** | acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 acima de R$ 35.000. Ex.: R$ 40.000 = R$ 300 |
+
+O mínimo regular de R$ 4.700 já coloca a unidade na primeira faixa. Mais o prêmio do berçário (item 2). A comissão é consequência de a rede faturar bem, não critério para escolher quem atender. Claude mostra a faixa e a distância até a próxima, mas não lança pagamento.
+
+## 6. Rotina
+
+| Quando | O quê |
+|---|---|
+| **Todo dia, 9h** | Faturamento de ontem: destaque positivo e negativo. Contato com berçários. Lista de quem falar hoje |
+| **Todo dia, 18h** | Registrar contatos, reuniões e tarefas no Trello. Planejar amanhã |
+| **Segunda** | WhatsApp de abertura da semana (Atenção e Recuperação) |
+| **Terça a quinta** | Reuniões de gestão. Quinta: revisar tarefas vencidas e quem não respondeu |
+| **Sexta, 15h** | Fechar a semana: decisões por unidade, vencidos, prioridades da próxima |
+| **Dias 1 a 5** | Classificar status de todas as unidades com o mês fechado |
+| **Dias 5 a 20** | Reuniões: Crítico e Recuperação primeiro, depois Atenção, depois Saudável |
+| **Dias 25 a 30** | Projeção, borda de faixa, ajuste de prioridades |
+
+## 7. Regras de ouro
+
+1. **Escuta antes de pauta.** O franqueado fala primeiro.
+2. **Perguntar, não cobrar.** "Como estão os leads essa semana?" em vez de "Você fez as 10 prospecções?"
+3. **Sem linguagem de chefe.** Nada de "você precisa". Usar "o que tem funcionado?", "o que acha de tentar?"
+4. **Celebrar antes de corrigir.** Toda reunião começa com um reconhecimento real.
+5. **Questionamento é técnico.** "A política da rede prevê isso porque..."
+6. **Caso delicado tem protocolo.** Mensagem leve antes, escuta no início, sem retomar o atrito.
+7. **Registro protege a relação.** Combinado com prazo e responsável escrito não vira discussão.
+
+## 8. Mensagem de WhatsApp
+
+Estrutura: reconhece o contexto, cita um dado, faz até 2 perguntas, propõe uma ação com prazo. Nunca enviar sem aprovação da Ivanise.
+
+| Dia | Ver antes | Modelo |
+|---|---|---|
+| Segunda | faturamento do fim de semana, Instagram | "Oi, [nome]! Como foi o fim de semana? Teve movimento? Me conta como está o mês." |
+| Quarta | campanha ativa, parcerias | "Oi! Passando pra ver como está. Está usando a campanha [nome]? Alguma dificuldade no atendimento?" |
+| Sexta | faturamento da semana | "Oi! Fechamento de semana: como foi? Clientes novos, renovações? Tem algo travando que eu possa ajudar?" |
+
+## 9. Cartão da unidade (Trello)
+
+| Campo | |
+|---|---|
+| Unidade, inauguração, dias de operação, status | |
+| Franqueada(o) e responsável da carteira | |
+| Faturamento: mês atual (corte), meta, mês anterior, variação | |
+| Instagram: último post/Reels, stories, campanha, parcerias, tráfego pago | |
+| Últimas 3 reuniões (data + 2 linhas) e próxima | |
+| Tarefas: o quê, quem, prazo, status | |
+
+Status de tarefa: A fazer, Aguardando franqueado, Em andamento, Feito, Atrasado.
+
+**Ata de reunião:** usar o [[Modelo Reunião]]. Resumo, indicadores, decisões, ações (o quê, quem, prazo, indicador) e data do próximo contato. A ata do Gemini é rascunho: revisar e colar o link no cartão.
+
+**Termos:** renovação = continua com o mesmo item. Retenção = cliente ativo troca de item ou aluga mais um. Reativação = cliente antigo volta.
+
+## Equipe e ferramenta
+
+- **Jennifer:** suporte de primeira linha nos grupos. Ainda sem comissão definida para berçário.
+- **Trello:** é onde fica o cartão da unidade. O Flow CRM ainda não está em operação. No fechamento das 18h, Claude lista quais cartões precisam ser atualizados.

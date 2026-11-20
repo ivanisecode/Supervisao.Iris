@@ -1,0 +1,11 @@
+filters:
+  and:
+    - type == "reuniao"
+views:
+  - type: table
+    name: Reuniões
+    order:
+      - file.name
+      - data
+      - unidade
+      - proximo_contato
