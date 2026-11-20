@@ -10,10 +10,10 @@
 Aplicar a Supervisão pelo Método IRA e ser vista pelas franqueadas como gestora que resolve, apoia e motiva.
 
 ## Papel do Claude
-1. **Pendências no WhatsApp Web da empresa**: marcações da Ivanise sem resposta, perguntas paradas há mais de 4h úteis, unidades em silêncio.
+1. **Pendências no WhatsApp Web da empresa** (só com navegador conectado; na nuvem, a partir de prints ou trechos colados): marcações da Ivanise sem resposta, perguntas paradas há mais de 4h úteis, unidades em silêncio.
    - NUNCA enviar mensagem sem aprovação explícita dela.
    - Toda conversa aberta deve ser marcada como não lida depois.
-2. **Pós-reunião**: anotações viram tarefas por unidade (o quê, quem, prazo). Cobrar o que venceu.
+2. **Pós-reunião**: anotações viram tarefas por unidade (o quê, quem, prazo). Acompanhar o que venceu, perguntando e não cobrando (regra de ouro 2).
 3. **Problemas recorrentes na rede**: apontar e propor solução (ex.: estoque do app diferente do real, peças 3D).
 4. **Sugestões de mensagem**: reconhecimento, foco da semana, apoio a unidades caladas.
 
@@ -27,7 +27,8 @@ Aplicar a Supervisão pelo Método IRA e ser vista pelas franqueadas como gestor
 - `reunioes/AAAA-MM-DD-unidade.md`: anotações brutas de reunião.
 - `tarefas/tarefas.md`: tarefas abertas por unidade (o quê, quem, prazo, status).
 - `recorrentes.md`: problemas que se repetem na rede, unidades afetadas, proposta.
-- `base/`: manual da supervisão, mapa de fontes com links, continuidade de 19/11/2026 e instruções do projeto (migração Íris). Ler antes de cobrar ou calcular faturamento.
-- `base/FOLLOWUP_UNIDADES.md`: classificação das unidades, checklist operacional, modelo de mensagem, ficha e ata (vindo do projeto GPS Follow-up).
-- `rotinas/`: estado dos agendamentos e prompts de Cowork (fechamento 18h, decisões sexta 15h, resumo 9h).
+- `base/METODO_IRA.md`: o método. Status das unidades, berçário, prioridades, rotina, regras de ouro, mensagens, cartão. **Ler primeiro.**
+- `base/MANUAL_SUPERVISAO_IRIS.md`: reuniões, fórmulas de faturamento, regras operacionais vigentes.
+- `base/MAPA_DE_FONTES.md`: links de planilhas, Trello, Gestão.
+- `rotinas/ROTINAS.md`: resumo 9h, fechamento 18h, decisões sexta 15h.
 - Dados brutos (CSVs de vendas, diário, atas com clientes) NÃO entram no repositório. Ficam no Drive restrito.

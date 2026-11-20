@@ -12,11 +12,11 @@ A consulta em 19/11/2026 confirmou os títulos dos itens Google marcados com “
 | [Relatório UNID-29](https://docs.google.com/spreadsheets/d/1WS0yeOtppDUvGftlaq7BB5-leddRY6UmS7sD02i7c1E/edit) | Exportação identificada no Drive | Metadados localizados. O link antigo de acompanhamento diário aponta para esse relatório. Para controle da rede, localizar a fonte adequada |
 | [ACOMPANHAMENTO DE FRANQUIAS CK](https://trello.com/b/1Ofoke33/acompanhamento-de-franquias-ck) | Tarefas, carteiras e prazos | Link recuperado da documentação de outubro. Extrato histórico tinha 234 cartões. Conferir quadro atual |
 | [Gestão citado em outubro](https://gestao.clubkids.online/) e [endereço de mudança de servidor registrado no diário](https://gestao.meuclubkids.com.br/) | Relatórios, reservas, Campanhas, Giro Inteligente e operação | Confirmar endereço vigente com TI e testar acesso pela conta de trabalho. Exportar relatórios conforme o escopo autorizado |
-| [Editorial Black Friday](https://clubkids-black-friday-producao-2026.club-kids-fr-4694.chatgpt.site/#kit-5) | Editorial e referência para produção | Link de trabalho registrado. Confirme acesso, versão e pasta de materiais no Drive |
+| [Editorial Black Friday](https://clubkids-black-friday-producao-2026.club-kids-fr-4694.chatgpt.site/#kit-5) | Editorial e referência para produção | Link hospedado no ChatGPT: pode sair do ar. Salvar cópia no Drive |
 | Diário da Ivanise | Produção e supervisão | HTML original e quatro cópias em texto no pacote. Versão 36 com 24 datas entre 27/10 e 19/11. Os registros mais recentes são de produção e não substituem o painel financeiro |
 | Agenda profissional e WhatsApp da rede | Reuniões e sinais operacionais | Identificar a agenda na conta conectada e comprovar a cobertura. Para WhatsApp, começar pelos registros autorizados por unidade |
 
-## Inventário das bases anexadas
+## Bases do pacote de migração (fora do repositório, guardar no Drive restrito)
 
 | Competência real no CSV | Arquivo | Linhas de dados |
 | --- | --- | ---: |
@@ -26,7 +26,7 @@ A consulta em 19/11/2026 confirmou os títulos dos itens Google marcados com “
 | Setembro/2026 | UNID-71 exportado em 08/10 | 2.697 |
 | Setembro/2026 | GERAL.SET.26 | 2.700 |
 
-Há também quatro PDFs de faturamento geral de junho, julho, agosto e setembro. As duas exportações de setembro têm 694 linhas de Cobrança cada e divergem em três linhas no total. Confira IDs, estados e valores para determinar as diferenças antes de escolher o recorte. Preserve os arquivos originais. O rótulo UNID no nome não é filtro confiável de cobertura. Valide a coluna Unidade.
+Faltam outubro e novembro: exportar do Gestão quando for analisar. Há também quatro PDFs de faturamento geral de junho, julho, agosto e setembro. As duas exportações de setembro têm 694 linhas de Cobrança cada e divergem em três linhas no total. Confira IDs, estados e valores para determinar as diferenças antes de escolher o recorte. Preserve os arquivos originais. O rótulo UNID no nome não é filtro confiável de cobertura. Valide a coluna Unidade.
 
 ## Referências históricas das decisões
 

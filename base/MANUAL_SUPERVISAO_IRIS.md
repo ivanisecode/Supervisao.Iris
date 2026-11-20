@@ -1,27 +1,43 @@
-# Manual de operação da supervisão iris
+# Manual de operação
 
-## Abertura, gestão e fechamento
+Complementa o `METODO_IRA.md` (status, berçário, rotina, regras de ouro). Aqui ficam reuniões, números e regras operacionais.
 
-1. **9h, quando a rotina estiver ativa.** Cheque grupos com cobertura autorizada, faturamento fechado, agenda, Trello e pendências de marketing e João Pessoa. Escolha três prioridades. Acompanhe a rede toda e concentre a ação em três a cinco unidades.
-2. **Triagem.** Considere data da reunião, prazo do combinado, urgência do franqueado, proximidade do mínimo ou próxima faixa, prazo de berçário e evidência disponível. Mostre fase de vida, desempenho e prioridade em campos separados.
-3. **Reuniões.** D-3 preparar confirmação. Após confirmação, orientar formulário. D-1 fazer briefing com última ata, indicadores, data de inauguração, idade, acordos em aberto, formulário e perguntas para decisão. Depois da reunião, registrar decisão, proposta e tarefa, com prazo e indicador quando combinados.
-4. **Execução.** Para cada ação, registre unidade, responsável, prazo, indicador, data da última revisão, próxima checagem e link. Trello e fontes profissionais servem de base. Revise tarefas em andamento, aguardando franqueado ou aguardando supervisão, e peça evidência de conclusão quando necessário.
-5. **18h.** Consolide produção comprovada, materiais, reuniões, orientações e pendências. Um encontro com ata e gravação conta uma vez. Status possíveis incluem concluído/comprovado, material disponível, relatado, pendente e sem comprovação.
-6. **Sexta às 15h.** Organize decisões da semana por unidade, o que foi cumprido, o que está vencido, o que virou prioridade e a próxima checagem. Preserve opções ainda em estudo. Sábado fica fora da jornada da supervisora.
+## Reuniões
 
-## Faturamento e premiação
+- **D-3:** preparar a confirmação. Depois de confirmada, pedir o [formulário pré-reunião](https://forms.gle/NT4rKzdgN2Rop7uWA).
+- **D-1:** briefing com última ata, indicadores, inauguração e dias de operação, acordos abertos, formulário e perguntas para decisão.
+- **Depois:** ata no modelo do método. Reunião com ata e gravação conta uma vez só.
 
-- Use `R` para realizado validado, `M` para meta da unidade, `D` para dias corridos fechados com cobertura contínua desde o início do mês e `N` para dias do mês. Atingimento: R/M. Esperado proporcional: M × D/N. Desvio: R menos esperado. Projeção linear: R/D × N. Ritmo até o alvo: máximo de 0 e M menos R dividido pelos dias restantes. Só calcule com denominadores válidos e indique a cobertura.
-- Calcule mínimo regular como realizado mensal de pelo menos R$ 4.700. Faltante igual ao máximo de zero e R$ 4.700 menos realizado. Meta comercial, comissão regular, berçário e operação de João Pessoa têm campos independentes.
-- Na triagem, berçário cobre idade operacional inferior a 120 dias, seguido de 30 dias de fomento (dias 121 a 150, decisão de 20/11/2026), com a mesma meta e o mesmo prêmio do berçário, para validar. Data de inauguração real inicia a contagem, pré-inauguração tem fluxo próprio. Marco do berçário: R$ 3.000 por mês (não acumulado), em cada mês dentro dos 120 dias, e o faturamento precisa se manter ou crescer de um mês para o outro. Bater uma vez e cair não vale. Fomento (dias 121 a 150) segue a mesma regra (Ivanise, 20/11/2026). Ainda precisam de confirmação: mês parcial e periodicidade do prêmio de referência de R$ 100. Não contabilizar pagamento automaticamente.
-- Objetivo registrado de dezembro de 2026: R$ 4.000. O cenário provisório inclui R$ 500 fixos. Consulte a tabela vigente, exceções e regra de João Pessoa antes de simular. Preserve a série histórica de lançamentos e pagamentos.
-- Cheque competência, cobertura, unidade/ID, duplicatas, status, valores zerados, classificação de frete, clientes novos e chave de pedido antes de calcular aluguéis, renovações, ticket, conversão, RFV ou LTV. Em relatórios sem chaves completas, descreva a granularidade possível.
-- Confira forma de pagamento e concilie recebido em fonte adequada. Item e Cobrança são registros do relatório. Status de entrega ou higienização não comprova recebimento. Quando outubro/novembro forem pedidos, recupere as fontes da competência vigente. Os CSVs do pacote cobrem junho a setembro.
+## Números
 
-## Comunicação, campanhas e operação
+| Sigla | Significado |
+|---|---|
+| R | realizado validado |
+| M | meta da unidade |
+| D | dias corridos fechados no mês |
+| N | dias do mês |
 
-- Produza mensagens curtas com tom de conversa, pergunta aberta quando couber, termos da marca e hashtags minúsculas. Para acompanhamento externo, apresente grupo/destinatário, conteúdo e anexos antes de enviar. E-mail exige aprovação explícita. Informe quando uma comunicação ficou somente em rascunho.
-- Para marketing, distinga briefing, criação, revisão, aprovação, distribuição, publicação comprovada e resultado. Cruze agenda de campanhas, materiais, configurações do sistema e execução local. Acompanhe pedidos da unidade, parcerias, catálogo e divulgação.
-- Entrega futura com pagamento total ou parcial antecipado: registre no dia do recebimento, use status **higienizando** e oriente a unidade a informar em observação a data de entrega, o período de uso e se o pagamento foi total ou parcial. Se houver uma única unidade do item e surgir demanda anterior, a unidade informa no seu grupo para ajuste temporário com Jennifer. O controle de datas é do franqueado. Essa é a orientação extraordinária de 13/11/2026 enquanto a reserva futura não está disponível no sistema.
-- No atendimento, pergunte se é para uso imediato ou para data futura antes de cotar. Para repasse, a solicitação de apoio ou orientação segue por e-mail com o motivo e os detalhes iniciais. Para status de distrato, relate somente o envio e as evidências disponíveis.
-- Em recuperação de unidade, priorize tarefas de sete dias com responsável, volume de contatos, produção de conteúdo, verificação do funil, indicador e data de retorno. Reaproveite o diagnóstico mais recente.
+- Atingimento: R ÷ M
+- Esperado até hoje: M × D ÷ N
+- Projeção: R ÷ D × N
+- Ritmo diário até a meta: (M − R) ÷ dias restantes
+- **Mínimo regular:** R$ 4.700 no mês. R$ 4.700 exatos contam.
+- **Objetivo de comissão da supervisora, dez/2026:** R$ 4.000 (cenário provisório com R$ 500 fixos).
+
+Antes de calcular: conferir competência, cobertura do arquivo, coluna Unidade (o nome do arquivo não é filtro confiável), duplicatas, status, valores zerados e frete. Item e Cobrança são registros diferentes. Status de entrega ou higienização não prova recebimento. Sempre dizer o corte.
+
+Separar sempre: meta comercial, realizado, mínimo regular, berçário, comissão e João Pessoa. Distinguir simulação, elegibilidade, lançamento e pagamento.
+
+## Regras operacionais vigentes
+
+- **Entrega futura com pagamento antecipado** (orientação de 13/11/2026, até o sistema ter reserva futura): registrar no dia do recebimento com status **higienizando** e colocar na observação a data de entrega, o período de uso e se o pagamento foi total ou parcial. Item único com demanda anterior: a unidade avisa no grupo para ajuste com a Jennifer. O controle de datas é da franqueada.
+- **Atendimento:** perguntar se é para uso imediato ou data futura antes de cotar.
+- **Repasse:** pedido de apoio por e-mail, com motivo e detalhes.
+- **Distrato:** relatar só o envio e as evidências.
+- **Recuperação de unidade:** plano de 7 dias com responsável, volume de contatos, conteúdo, funil, indicador e data de retorno.
+
+## Comunicação
+
+- Mensagem curta, tom de conversa, pergunta aberta, hashtags minúsculas.
+- Antes de qualquer envio: mostrar grupo ou destinatário, texto e anexos e esperar o "pode enviar" da Ivanise. Se ficou só em rascunho, dizer.
+- Marketing: separar briefing, criação, revisão, aprovação, publicação comprovada e resultado.

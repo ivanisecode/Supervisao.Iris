@@ -1,6 +1,6 @@
 # Tarefas por unidade
 
-Origem: `base/CONTINUIDADE_19-11-2026.md`. Prazo "não combinado" quando a fonte não traz. Antes de cobrar, conferir a última evidência no diário, ata ou Trello.
+Origem: continuidade da migração de 19/11/2026. Prazo "não combinado" quando a fonte não traz. Antes de acompanhar, conferir a última evidência no diário, ata ou Trello.
 
 | Unidade | O quê | Quem | Prazo | Status |
 |---|---|---|---|---|
