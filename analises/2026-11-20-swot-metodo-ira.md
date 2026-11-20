@@ -6,7 +6,7 @@ Feita em 20/11/2026 sobre a versão prática (`base/METODO_IRA.md`) e o document
 
 1. **O método é bom no que é mais difícil de ensinar: a relação com o franqueado.** As regras de ouro são o maior ativo.
 2. **O ponto fraco é a execução:** foi desenhado para duas pessoas (Ivanise + Will) e um sistema (Flow) que hoje não existem. Sem registro constante, o método perde a memória.
-3. **A comissão como bússola puxa para um lado e o cuidado com as unidades críticas puxa para o outro.** Isso precisa estar resolvido por escrito.
+3. **A comissão como bússola puxava para um lado e o cuidado com as unidades críticas para o outro.** Resolvido: o objetivo é todas as unidades faturando bem (ver "O conflito central").
 
 ## Forças
 
@@ -34,7 +34,7 @@ Feita em 20/11/2026 sobre a versão prática (`base/METODO_IRA.md`) e o document
 
 | Oportunidade | Como aproveitar |
 |---|---|
-| **Berçário rende mais que quase toda a rede.** R$ 100/mês por berçário com R$ 3.000 equivale à comissão de uma unidade com R$ 2.000 de royalties (cerca de R$ 13.300 de faturamento bruto, antes da taxa de sistema) | Berçário é prioridade de tempo, não só de cuidado. Dar à Jennifer o contato de rotina com berçários |
+| **Berçário rende mais que quase toda a rede.** R$ 100/mês por berçário com R$ 3.000 equivale à comissão de uma unidade com R$ 2.000 de royalties (R$ 11.334 de faturamento bruto) | Berçário é prioridade de tempo, não só de cuidado. Dar à Jennifer o contato de rotina com berçários |
 | **João Pessoa rende 8 vezes mais por real faturado.** Cada R$ 1.000 acima de R$ 35.000 = R$ 60. Na rede, subir uma faixa (R$ 500 de royalties, cerca de R$ 3.333 de faturamento) dá R$ 25 | Acompanhar JP de perto, com meta semanal |
 | **Borda de faixa:** a faixa muda a cada R$ 500 de royalties (cerca de R$ 3.333 de faturamento) | Lista mensal das unidades a menos de R$ 500 de faturamento da próxima faixa. Ganho rápido |
 | Automação com Claude: resumo das 9h, fechamento das 18h, lista de cartões sem registro | Resolve boa parte da fraqueza de registro sem depender de disciplina diária |
@@ -59,7 +59,9 @@ Feita em 20/11/2026 sobre a versão prática (`base/METODO_IRA.md`) e o document
 
 A Parte 7 diz "a comissão é a bússola". A Parte 2 diz "Crítico: contato imediato". Uma unidade crítica gera R$ 0 de comissão. Se as duas regras valem, a prioridade fica ambígua.
 
-**Proposta:** a comissão decide **onde acelerar** (borda de faixa, top performers, JP). A saúde da rede decide **onde proteger** (crítico e berçário). Proteger vem primeiro, acelerar vem em seguida. Isso já está na ordem do item 3 do método prático.
+**Decidido (Ivanise, 20/11/2026):** o objetivo é que todas as unidades faturem bem, porque assim todos ganham. A comissão é consequência, não bússola. Na prática: proteger (crítico e berçário) vem primeiro, acelerar (borda de faixa, saudáveis, JP) vem em seguida.
+
+Com a taxa de R$ 300, o mínimo regular de R$ 4.700 coincide com a primeira faixa de comissão (R$ 4.667). Levar uma unidade de Recuperação ao mínimo já é ganho para todos.
 
 ## 5 ações recomendadas
 
@@ -74,4 +76,3 @@ A Parte 7 diz "a comissão é a bússola". A Parte 2 diz "Crítico: contato imed
 ## Para fechar a análise com números reais
 
 - Lista de unidades com data de inauguração e faturamento do mês: mostra quantas estão em cada status e se a agenda cabe.
-- Valor da taxa de sistema: deixa a conta de faixa exata.

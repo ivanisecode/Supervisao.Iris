@@ -1,6 +1,8 @@
 # Método IRA: versão prática
 
-Criado por Ivanise Leite (jun/2026). Versão enxuta de 20/11/2026. [Google Doc com SWOT](https://docs.google.com/document/d/1jGjO4gbvzhJjWhJD5Oxe8-f5422O7RpP60VipJ7GMZw/edit). Original: [MetodoIRA_Supervisao_Franchising.docx](https://docs.google.com/document/d/1V2UAOOW_NvXrqDztRYxwO6qYOjaECuFD/edit).
+Criado por Ivanise Leite (jun/2026). Versão enxuta de 20/11/2026. [Google Doc com SWOT](https://docs.google.com/document/d/19o7BFq6ncEyBVoOJ-jnFiPSXrreKq6pkw6ls5zLuM5U/edit). Original: [MetodoIRA_Supervisao_Franchising.docx](https://docs.google.com/document/d/1V2UAOOW_NvXrqDztRYxwO6qYOjaECuFD/edit).
+
+**Objetivo:** todas as unidades faturando bem. Se a unidade fatura bem, todos ganham: franqueada, rede e supervisora.
 
 **Premissa:** franqueado é empresário, não funcionário. Supervisão é parceria, não controle.
 
@@ -62,22 +64,22 @@ Substitui a fórmula antiga "7 dias × 4,3", que erra em meses de 31 dias e quan
 
 A comissão é calculada sobre os **royalties** da unidade:
 
-**Royalties = 15% do faturamento bruto + taxa de sistema** (sem descontos, mesmo que a unidade tenha recebido algum).
+**Royalties = 15% do faturamento bruto + R$ 300 de taxa de sistema** (taxa igual para todas, sem descontos).
 
-Faturamento bruto necessário para uma faixa: **(faixa − taxa de sistema) ÷ 0,15**. Sem a taxa, R$ 1.000 de royalties pedem R$ 6.667 de faturamento.
+Faturamento bruto necessário para uma faixa: **(faixa − 300) ÷ 0,15**.
 
-| Royalties da unidade no mês (igual ou acima) | Comissão |
-|---|---|
-| a partir de R$ 1.000 | R$ 50 |
-| a partir de R$ 1.500 | R$ 75 |
-| a partir de R$ 2.000 | R$ 100 |
-| a partir de R$ 2.500 | R$ 125 |
-| a partir de R$ 3.000 | R$ 150 |
-| a partir de R$ 3.500 | R$ 175 |
-| a partir de R$ 4.000 | R$ 200 |
-| **João Pessoa (CKA):** faturamento acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 acima de R$ 35.000. Ex.: R$ 40.000 = R$ 300 |
+| Royalties no mês (igual ou acima) | Faturamento bruto necessário | Comissão |
+|---|---|---|
+| R$ 1.000 | R$ 4.667 | R$ 50 |
+| R$ 1.500 | R$ 8.000 | R$ 75 |
+| R$ 2.000 | R$ 11.334 | R$ 100 |
+| R$ 2.500 | R$ 14.667 | R$ 125 |
+| R$ 3.000 | R$ 18.000 | R$ 150 |
+| R$ 3.500 | R$ 21.334 | R$ 175 |
+| R$ 4.000 | R$ 24.667 | R$ 200 |
+| **João Pessoa (CKA)** | acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 acima de R$ 35.000. Ex.: R$ 40.000 = R$ 300 |
 
-Mais o prêmio do berçário (item 2). Claude mostra a faixa e a distância até a próxima, mas não lança pagamento.
+O mínimo regular de R$ 4.700 já coloca a unidade na primeira faixa. Mais o prêmio do berçário (item 2). A comissão é consequência de a rede faturar bem, não critério para escolher quem atender. Claude mostra a faixa e a distância até a próxima, mas não lança pagamento.
 
 ## 6. Rotina
 
@@ -133,7 +135,3 @@ Status de tarefa: A fazer, Aguardando franqueado, Em andamento, Feito, Atrasado.
 
 - **Jennifer:** suporte de primeira linha nos grupos. Ainda sem comissão definida para berçário.
 - **Trello:** é onde fica o cartão da unidade. O Flow CRM ainda não está em operação. No fechamento das 18h, Claude lista quais cartões precisam ser atualizados.
-
-## Pendências do método
-
-1. **Valor da taxa de sistema** por unidade (fixo? igual para todas?). Necessário para calcular a borda de faixa.
