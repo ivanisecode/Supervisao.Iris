@@ -46,7 +46,7 @@ Antes de marcar Crítico: confirmar que não há pedido sem lançamento ou erro 
 ## 3. Onde focar primeiro
 
 1. **Crítico e berçário com bloqueio:** contato no dia.
-2. **Borda de faixa:** a até R$ 500 da próxima faixa de comissão. Empurrão pequeno, retorno imediato.
+2. **Borda de faixa:** royalties a até R$ 500 da próxima faixa (item 5). Empurrão pequeno, retorno imediato.
 3. **Zeradas com potencial:** até 12 meses de operação. Quase sempre é comportamento: crença baixa, sem prospecção, Instagram parado.
 4. **Saudáveis sem reunião estratégica:** 30 minutos podem render R$ 2 a 3 mil a mais.
 
@@ -58,9 +58,22 @@ Checklist antes de sugerir Instagram: WhatsApp conectado, pedidos no sistema, es
 
 Substitui a fórmula antiga "7 dias × 4,3", que erra em meses de 31 dias e quando a primeira semana tem feriado ou mais fins de semana. É estimativa: sempre dizer o corte.
 
-## 5. Comissão
+## 5. Comissão da supervisora
 
-Tabela oficial: planilha [FATURAMENTO FRANQUIAS](https://docs.google.com/spreadsheets/d/1Qa8SSQXtn5sNevpmvjmeetVkz1VT-RNYDcM0KhbUIb0/edit). **Pendente:** o documento original tem 3 tabelas de faixas que não batem entre si (ver seção "Pendências"). Até confirmar, Claude não calcula comissão, só mostra faturamento e distância das faixas.
+A comissão é calculada sobre os **royalties** pagos pela unidade, não sobre o faturamento.
+
+| Royalties da unidade no mês | Comissão |
+|---|---|
+| acima de R$ 1.000 | R$ 50 |
+| acima de R$ 1.500 | R$ 75 |
+| acima de R$ 2.000 | R$ 100 |
+| acima de R$ 2.500 | R$ 125 |
+| acima de R$ 3.000 | R$ 150 |
+| acima de R$ 3.500 | R$ 175 |
+| acima de R$ 4.000 | R$ 200 |
+| **João Pessoa (CKA):** faturamento acima de R$ 35.000 (meta mínima) | R$ 60 a cada R$ 1.000 |
+
+Mais o prêmio do berçário (item 2). Claude mostra a faixa e a distância até a próxima, mas não lança pagamento.
 
 ## 6. Rotina
 
@@ -112,12 +125,13 @@ Status de tarefa: A fazer, Aguardando franqueado, Em andamento, Feito, Atrasado.
 
 **Termos:** renovação = continua com o mesmo item. Retenção = cliente ativo troca de item ou aluga mais um. Reativação = cliente antigo volta.
 
+## Equipe e ferramenta
+
+- **Jennifer:** suporte de primeira linha nos grupos. Ainda sem comissão definida para berçário.
+- **Trello:** é onde fica o cartão da unidade. O Flow CRM ainda não está em operação. No fechamento das 18h, Claude lista quais cartões precisam ser atualizados.
+
 ## Pendências do método
 
-1. **Tabelas de comissão divergentes:**
-   - Grupos (2.2): G1 ≥ R$ 8.000 = R$ 175, G2 ≥ R$ 4.700 = R$ 125 a 150, G3 ≥ R$ 3.500 = R$ 50 a 75, G4 = R$ 0.
-   - Faixas (7.2): > R$ 15.000 = R$ 175, > R$ 10.000 = R$ 150, > R$ 7.000 = R$ 125, > R$ 5.000 = R$ 75 a 100, > R$ 3.500 = R$ 50.
-   - Exemplo de Chapecó (7.3): R$ 7.047 na faixa de R$ 125, próxima faixa R$ 8.000 = R$ 150.
-   - Qual vale? Ou confirmar na planilha FATURAMENTO FRANQUIAS.
-2. **Will (analista):** segue na equipe? Se sim, a carteira dele é berçários, unidades até 6 meses, João Pessoa e consolidação de faturamento. Will não cobra, não decide, só monitora e aciona a Ivanise.
-3. **Flow CRM:** está em uso ou o acompanhamento é no Trello? Esta versão assume Trello.
+1. **Royalties x faturamento:** como o royalty é calculado a partir do faturamento (percentual, valor mínimo)? Sem isso não dá para dizer quanto falta de faturamento para a próxima faixa.
+2. **"Acima de":** royalties de exatamente R$ 1.000 entram na faixa de R$ 50 ou não?
+3. **João Pessoa:** a conta é sobre o que passar de R$ 35.000? Exemplo: R$ 40.000 = 5 × R$ 60 = R$ 300?
