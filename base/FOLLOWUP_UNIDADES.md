@@ -26,7 +26,11 @@ Fases do berçário:
 - Dias 91 a 120: consolidação e saída do berçário.
 - Dias 121 a 150: fomento. Mesma meta e mesmo prêmio do berçário, para validar a evolução antes de virar unidade regular.
 
-A contagem começa na data real de inauguração. No fomento valem as mesmas regras de meta e prêmio do berçário (Ivanise, 20/11/2026). Continua em aberto se o marco de R$ 3.000 é mensal ou acumulado.
+A contagem começa na data real de inauguração. No fomento valem as mesmas regras de meta e prêmio do berçário (Ivanise, 20/11/2026). 
+
+**Marco do berçário: R$ 3.000 por mês (não acumulado), em cada mês dentro dos 120 dias, e o faturamento precisa se manter ou crescer de um mês para o outro. Bater uma vez e cair não vale. Fomento (dias 121 a 150) segue a mesma regra (Ivanise, 20/11/2026).**
+
+Em aberto: valor do prêmio por mês que cumpre (R$ 100 a cada mês ou uma vez só) e mês parcial de inauguração.
 
 ## 2. Antes de concluir que a unidade zerou
 
