@@ -2,11 +2,11 @@
 
 Origem: resumo de migração do projeto "Follow-up Unidades | Gestão da Rede clubkids" (GPS). Complementa o `MANUAL_SUPERVISAO_IRIS.md`. Em conflito, vale o que estiver marcado como decidido abaixo.
 
-## Conflito em aberto
+## Decisões
 
 | Ponto | Manual Íris | Follow-up GPS | Decisão |
 |---|---|---|---|
-| Berçário | até 120 dias | até 90 dias, em 3 fases de 30 | pendente com a Ivanise |
+| Berçário | até 120 dias | até 90 dias, em 3 fases de 30 | **120 dias + 30 de fomento** (Ivanise, 20/11/2026) |
 
 ## 1. Classificação das unidades
 
@@ -17,9 +17,16 @@ Origem: resumo de migração do projeto "Follow-up Unidades | Gestão da Rede cl
 | Atenção | Desempenho baixo, operação ativa, sinais de demanda | Ajuste comercial e acompanhamento na semana |
 | Aceleração | Perto da meta ou crescendo | Renovação, item adicional, indicação |
 | Destaque | Crescimento consistente ou prática replicável | Reconhecer e registrar o que funcionou |
-| Berçário | Recém-inaugurada (prazo: ver conflito) | Avaliar pela fase. Bloqueio urgente vira contato imediato |
+| Berçário | Até 120 dias de operação, mais 30 de fomento | Avaliar pela fase. Bloqueio urgente vira contato imediato |
 
-Fases do berçário (GPS): dias 1 a 30 implantação, rotina, primeiros clientes e parcerias. Dias 31 a 60 evolução, follow-up e previsibilidade. Dias 61 a 90 processo comercial, crescimento e saída.
+Fases do berçário:
+- Dias 1 a 30: implantação, rotina, primeiros clientes e parcerias.
+- Dias 31 a 60: evolução, follow-up e previsibilidade.
+- Dias 61 a 90: processo comercial e crescimento.
+- Dias 91 a 120: consolidação e saída do berçário.
+- Dias 121 a 150: fomento. Acompanhamento de reforço antes de virar unidade regular.
+
+A contagem começa na data real de inauguração. O que muda no fomento (frequência de contato, prêmio, metas) ainda não está definido.
 
 ## 2. Antes de concluir que a unidade zerou
 
